@@ -1,0 +1,12 @@
+# build output
+dist
+.next
+target
+packages/next/wasm/@next
+
+# dependencies
+node_modules
+
+# Cache
+*.tsbuildinfo
+.swc/
